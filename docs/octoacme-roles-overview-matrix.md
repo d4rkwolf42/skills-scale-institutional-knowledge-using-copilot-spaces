@@ -75,3 +75,9 @@ In smaller teams, roles may be combined:
 *Note:* Monitor for signs of overload or gaps when combining roles, and plan to split them as the team grows.
 
 ## Escalation Path & Accountability
+
+For specific issue types:
+- **Technical:** Developer → Scrum Master → Project Manager
+- **Scope/Priority:** Business Analyst → Product Manager → Sponsor
+- **Quality:** QA Lead → Release Manager → Project Manager
+- **Release Risk:** Release Manager → Project Manager → Sponsor
