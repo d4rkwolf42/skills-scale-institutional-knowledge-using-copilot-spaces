@@ -84,6 +84,8 @@ This folder contains:
 - **`octoacme-release-and-deployment.md`** — Standardized release and deployment processes with checklists and playbooks
 - **`octoacme-retrospective-and-continuous-improvement.md`** — How to run retrospectives and track improvements
 - **`octoacme-roles-and-personas.md`** — Definitions of typical roles and responsibilities
+- **`octoacme-roles-and-personas.md`** — Definitions of typical roles (Developers, Product Managers, Project Managers, Scrum Masters, UX Designers, QA Leads, Release Managers, Business Analysts) and their responsibilities
+- **`octoacme-roles-overview-matrix.md`** — Quick reference matrix showing role interactions, responsibility boundaries, and how roles collaborate across the project lifecycle
 
 ## Getting Started
 
